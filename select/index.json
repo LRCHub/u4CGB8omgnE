@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "オーヴァースレプト",
+  "base_artist": "Neru",
+  "createdAt": "2026-03-13T12:45:05.868479Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オーヴァースレプト feat.鏡音リン、鏡音レン",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/01_オーヴァースレプト_feat.鏡音リン、鏡音レン_Neru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オーヴァースレプト",
+      "artist": "Neru feat. 鏡音リン, 鏡音レン",
+      "has_synced": true,
+      "path": "select/02_オーヴァースレプト_Neru_feat._鏡音リン,_鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オーヴァースレプト",
+      "artist": "Neru feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/03_オーヴァースレプト_Neru_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オーヴァースレプト",
+      "artist": "Neru; 鏡音リン; 鏡音レン",
+      "has_synced": true,
+      "path": "select/04_オーヴァースレプト_Neru;_鏡音リン;_鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "オーヴァースレプト",
+      "artist": "Neru feat. 鏡音リン、鏡音レン",
+      "has_synced": true,
+      "path": "select/05_オーヴァースレプト_Neru_feat._鏡音リン、鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "オーヴァースレプト feat. IA",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/06_オーヴァースレプト_feat._IA_Neru.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "オーヴァースレプト",
+      "artist": "Neru feat. IA",
+      "has_synced": true,
+      "path": "select/07_オーヴァースレプト_Neru_feat._IA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オーヴァースレプト",
+      "artist": "Neru",
+      "has_synced": false,
+      "path": "select/pl_01_オーヴァースレプト_Neru.txt"
+    }
+  ]
+}
